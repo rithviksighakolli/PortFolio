@@ -10,10 +10,10 @@ body
 {
     color: #fff;
     background: #081b29;
-    
+
 
 }
-.header 
+.header
 {
     position: fixed;
     top: 0;
@@ -35,7 +35,7 @@ body
     cursor: default;
     opacity: 0;
     animation: slideRight 1s ease forwards;
-   
+
 
 }
 
@@ -60,14 +60,14 @@ body
   justify-content: space-between;
 
    height: 100vh;
-   background: url(Purple\ Illustrated\ Mountain\ Desktop\ Wallpaper.png) no-repeat; 
+   background: url(Purple\ Illustrated\ Mountain\ Desktop\ Wallpaper.png) no-repeat;
    background-size: cover;
    background-position: center;
    display: flex;
    align-items: center;
    padding: 70px 10% 0;
 
-} 
+}
 .home-content {
     max-width: 600px;
 }
@@ -163,13 +163,13 @@ body
 }
 .about-text h2{
     font-size: 60px;
-    
+
 }
 .about-text h2 span{
 
     color: #0ef;
-    
-    
+
+
 }
 .about-text h4{
     font-size: 29px;
@@ -193,12 +193,12 @@ body
     font-size: 60px;
     padding-bottom: 70px;
 }
- 
+
 .sub-title span{
 
     color: #0ef;
-    
-    
+
+
 }
 
 
@@ -263,7 +263,7 @@ body
 
 }
 .services-list div:hover{
-   
+
     transform: translateY(-10px);
 }
 
@@ -308,7 +308,7 @@ section{
 .Technical-bars .bar .info span{
     font-size: 17px;
     font-weight: 500;
-    animation: showText 0.5s 1s linear forwards;   
+    animation: showText 0.5s 1s linear forwards;
     opacity: 0;
 }
 
@@ -361,7 +361,7 @@ section{
     border-radius: 3px;
     top: -28px;
     right: -20px;
-    animation: showText 0.5s 1.5s linear forwards;   
+    animation: showText 0.5s 1.5s linear forwards;
     opacity: 0;
 }
 .progress-line.html span::after{
@@ -390,7 +390,7 @@ section{
     border-top-color:#000;
     top: -10px;
     right: 0;
-    animation: showText 0.5s 1.5s linear forwards;   
+    animation: showText 0.5s 1.5s linear forwards;
     opacity: 0;
 }
 @keyframes showText{
@@ -405,7 +405,7 @@ section{
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: flex-start;
-   
+
 }
 .radial-bars .radial-bar{
     width: 50%;
@@ -496,16 +496,10 @@ section{
 
 
 
-
-
-
-
-
-
 .main-text{
     padding-top: 130px;
     margin-top: 200px;
-   
+
 }
 .main-text h2{
     font-size: 60px;
@@ -515,7 +509,7 @@ section{
 .main-text h2 span{
 
     color: #0ef;
-       
+
 }
 .portfolio-content{
     display: grid;
@@ -524,7 +518,7 @@ section{
     gap: 2.5rem;
     margin-top: 5rem;
     padding: 70px;
-    
+
 }
 .row{
     position: relative;
@@ -607,7 +601,7 @@ section{
 .contact-text h2 span{
 
         color: #0ef;
-           
+
 }
 .contact-text h4{
     margin: 15px 0;
@@ -639,7 +633,7 @@ section{
     font-size: 20px;
     font-weight: 600;
     transition: all .40s ease;
-    
+
 
 }
 .contact-list li a:hover{
@@ -724,7 +718,7 @@ form textarea{
     position: fixed;
     bottom: 2.1rem;
     right: 2.1rem;
-    
+
 }
 .top i {
     color: #000000;
